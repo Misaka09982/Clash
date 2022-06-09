@@ -1,18 +1,20 @@
-DOMAIN-SUFFIX,akabeesoft2.com
-DOMAIN-SUFFIX,akabeesoft3.com
-DOMAIN-SUFFIX,akatsukiworks.com
-DOMAIN-SUFFIX,alicesoft.com
-DOMAIN-SUFFIX,api-p.videomarket.jp
-DOMAIN-SUFFIX,cosmiccute.com
-DOMAIN-SUFFIX,ddo.jp
-DOMAIN-SUFFIX,dmm-extension.com
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-SUFFIX,dmm.com
-DOMAIN-SUFFIX,dmm.hk
-DOMAIN-SUFFIX,dmmapis.com
-DOMAIN-SUFFIX,hibiki-site.com
-DOMAIN-SUFFIX,minori.ph
-DOMAIN-SUFFIX,tenco.cc
-DOMAIN-SUFFIX,wheel-soft.com
-DOMAIN-SUFFIX,dgapi.onemt.co
-DOMAIN-SUFFIX,pcrdfans.com
+payload:
+  - 'akabeesoft2.com'
+  - 'akabeesoft3.com'
+  - 'akatsukiworks.com'
+  - 'alicesoft.com'
+  - 'api-p.videomarket.jp'
+  - 'cosmiccute.com'
+  - 'ddo.jp'
+  - 'dmm.com'
+  - 'dmm-extension.com'
+  - 'dmm.co.jp'
+  - 'dmmapis.com'
+  - 'hibiki-site.com'
+  - 'minori.ph'
+  - 'tenco.cc'
+  - 'wheel-soft.com'
+  - 'onemt.co'
+  - 'onemt.com'
+  - 'menaapp.net'
+  

@@ -1,2 +1,3 @@
-DOMAIN-SUFFIX,picacomic.com
-DOMAIN-SUFFIX,pcrdfans.com
+payload:
+  - 'picacomic.com'
+  - 'pcrdfans.com'

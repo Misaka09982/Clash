@@ -1,6 +1,7 @@
-DOMAIN-SUFFIX,omotenashi.cygames.jp
-DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
-DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
-DOMAIN,prd-storage-umamusume.akamaized.net
-DOMAIN-SUFFIX,cygames.jp
 DOMAIN-KEYWORD,umamusume
+payload:
+  - 'omotenashi.cygames.jp'
+  - 'prd-priconne-redive.akamaized.net'
+  - 'api-priconne-redive.cygames.jp'
+  - 'prd-storage-umamusume.akamaized.net'
+  - 'cygames.jp'

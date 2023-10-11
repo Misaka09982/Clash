@@ -8,3 +8,5 @@ payload:
  - DOMAIN,checkip.dyndns.org
  - DOMAIN-SUFFIX,dyndns.com
  - DOMAIN-SUFFIX,synology.com
+ - DOMAIN-SUFFIX,whatismyip.akamai.com
+ - DOMAIN-SUFFIX,digitalocean.com

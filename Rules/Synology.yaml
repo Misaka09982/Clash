@@ -1,0 +1,10 @@
+payload:
+ - DOMAIN,checkip.synology.com
+ - DOMAIN,ddns.synology.com
+ - DOMAIN-SUFFIX,ip.sb
+ - DOMAIN,checkipv6.synology.com
+ - DOMAIN,checkport.synology.com
+ - DOMAIN,account.synology.com
+ - DOMAIN,checkip.dyndns.org
+ - DOMAIN-SUFFIX,dyndns.com
+ - DOMAIN-SUFFIX,synology.com

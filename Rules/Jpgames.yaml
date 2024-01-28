@@ -19,3 +19,6 @@ payload:
  - DOMAIN-SUFFIX,onemt.com
  - DOMAIN-SUFFIX,menaapp.net
  - DOMAIN-SUFFIX,nikke-kr.com
+ - IP-CIDR,8.209.244.66/32
+ - IP-CIDR,47.91.31.217/32
+ - IP-CIDR,47.74.1.69/32

@@ -5,4 +5,6 @@ payload:
  - DOMAIN-SUFFIX,vcb-s.com
  - DOMAIN-SUFFIX,game8.jp
  - DOMAIN-KEYWORD,misakatomoyo
+ - DOMAIN-KEYWORD,tailscale
+ - DOMAIN-KEYWORD,netbird
  

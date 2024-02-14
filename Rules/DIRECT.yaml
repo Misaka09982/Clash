@@ -8,6 +8,5 @@ payload:
  - DOMAIN-KEYWORD,tailscale
  - DOMAIN-KEYWORD,netbird
  - DOMAIN-KEYWORD,qiehuang
- - DOMAIN-SUFFIX,huggingface.co
- - DOMAIN-SUFFIX,hf.space
+
  

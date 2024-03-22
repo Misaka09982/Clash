@@ -8,5 +8,6 @@ payload:
  - DOMAIN-KEYWORD,tailscale
  - DOMAIN-KEYWORD,netbird
  - DOMAIN-KEYWORD,qiehuang
+ - DOMAIN-SUFFIX,tjupt.org
 
  

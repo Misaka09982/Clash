@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain": [
+          "www.hddolby.com"
+        ],
+        "domain_keyword": [
+          "tailscale",
+          "misakatomoyo",
+          "netbird",
+          "qiehuang",
+          "polestar"
+        ],
+        "domain_suffix": [
+          "jietiandi.net",
+          "vcb-s.com",
+          "game8.jp",
+          "tjupt.org",
+          "exijiu.com",
+          "hcaptcha.com"
+        ]
+      }
+    ]
+}

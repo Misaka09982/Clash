@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain": [
+          "update.glados-config.com"
+        ],
+        "domain_suffix": [
+          "bqg337.com",
+          "dmhy.org",
+          "pcrdfans.com",
+          "qoo-app.com",
+          "api-p.videomarket.jp",
+          "maofiy.com",
+          "mikanani.me",
+          "picacomic.com",
+          "linovelib.com",
+          "githubusercontent.com",
+          "hmoeh.com",
+          "wnacg.com",
+          "cocomanhua.com"
+        ]
+      }
+    ]
+}

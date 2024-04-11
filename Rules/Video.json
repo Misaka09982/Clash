@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain_suffix": [
+          "hanime1.me",
+          "iwara.tv",
+          "bangumi.online"
+        ]
+      }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain": [
+          "prd-storage-umamusume.akamaized.net"
+        ],
+        "domain_keyword": [
+          "umamusume"
+        ],
+        "domain_suffix": [
+          "omotenashi.cygames.jp",
+          "prd-priconne-redive.akamaized.net",
+          "api-priconne-redive.cygames.jp",
+          "cygames.jp"
+        ]
+      }
+    ]
+}

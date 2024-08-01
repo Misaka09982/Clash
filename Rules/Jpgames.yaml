@@ -18,6 +18,11 @@ payload:
  - DOMAIN-SUFFIX,onemt.co
  - DOMAIN-SUFFIX,onemt.com
  - DOMAIN-SUFFIX,menaapp.net
+ - DOMAIN-SUFFIX,pinkcore.net
+ - DOMAIN-SUFFIX,ebuajk.com
+ - DOMAIN-SUFFIX,hyenadata.net
+ - DOMAIN-SUFFIX,unity3d.com
+ - DOMAIN-SUFFIX,appguard.co.kr
  - DOMAIN-SUFFIX,nikke-kr.com
  - IP-CIDR,8.209.244.66/32
  - IP-CIDR,47.91.31.217/32

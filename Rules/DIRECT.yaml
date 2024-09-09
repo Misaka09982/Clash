@@ -15,5 +15,7 @@ payload:
  - DOMAIN-SUFFIX,hcaptcha.com
  - DOMAIN-SUFFIX,com.cn
  - DOMAIN,api-access.pangolin-sdk-toutiao.com
+ - DOMAIN-SUFFIX,i-i.me
+ 
 
  

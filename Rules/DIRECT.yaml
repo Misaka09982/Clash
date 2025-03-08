@@ -1,5 +1,6 @@
 payload:
    - DOMAIN,misakatomoyo.dscloud.me
+   - DOMAIN-SUFFIX,dns.yandex.net
    - DOMAIN,www.hddolby.com
    - DOMAIN-SUFFIX,jietiandi.net
    - DOMAIN-SUFFIX,vcb-s.com

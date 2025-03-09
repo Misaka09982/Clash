@@ -1,5 +1,6 @@
 payload:
    - DOMAIN,misakatomoyo.dscloud.me
+   - DOMAIN-SUFFIX,gmya.net
    - DOMAIN-SUFFIX,sse.cisco.com
    - DOMAIN-SUFFIX,dns.yandex.net
    - DOMAIN-SUFFIX,adguard-dns.com

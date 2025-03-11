@@ -28,9 +28,11 @@ payload:
    - DOMAIN-KEYWORD,ghproxy
    - DOMAIN-SUFFIX,cdnlz22.com
    - DOMAIN-SUFFIX,ffzy-online5.com
+   - DOMAIN-SUFFIX,ffzy-play2.com
    - DOMAIN-SUFFIX,high25-playback.com
    - DOMAIN-SUFFIX,7bbffvip.com
    - DOMAIN-SUFFIX,ncat3.app
+   - DOMAIN-SUFFIX,play-cdn8.com
    - IP-CIDR,43.135.53.78/32
    - IP-CIDR,1.0.0.1/32
    - IP-CIDR,1.1.1.2/32

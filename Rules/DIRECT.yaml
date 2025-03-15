@@ -34,6 +34,7 @@ payload:
    - DOMAIN-SUFFIX,ncat3.app
    - DOMAIN-SUFFIX,play-cdn8.com
    - DOMAIN-SUFFIX,bfzycdn.com
+   - DOMAIN-SUFFIX,xinc818.com
    - IP-CIDR,43.135.53.78/32
    - IP-CIDR,1.0.0.1/32
    - IP-CIDR,1.1.1.2/32

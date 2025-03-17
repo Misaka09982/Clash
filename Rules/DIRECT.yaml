@@ -16,6 +16,7 @@ payload:
    - DOMAIN-SUFFIX,tjupt.org
    - DOMAIN-SUFFIX,exijiu.com
    - DOMAIN-KEYWORD,polestar
+   - DOMAIN-KEYWORD,getcacheddhcpresultsforcurrentconfig
    - DOMAIN-SUFFIX,hcaptcha.com
    - DOMAIN-SUFFIX,com.cn
    - DOMAIN,api-access.pangolin-sdk-toutiao.com

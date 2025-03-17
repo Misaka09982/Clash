@@ -38,6 +38,9 @@ payload:
    - DOMAIN-SUFFIX,51daili.com
    - DOMAIN-SUFFIX,ipzan.com
    - DOMAIN-SUFFIX,oness.xyz
+   - DOMAIN-SUFFIX,39bh.com
+   - DOMAIN-SUFFIX,rastargame.com
+   - DOMAIN-SUFFIX,quickapi.net
    - IP-CIDR,43.135.53.78/32
    - IP-CIDR,1.0.0.1/32
    - IP-CIDR,1.1.1.2/32

@@ -14,3 +14,6 @@ payload:
  - DOMAIN,ffzyplayer.com
  - DOMAIN,v16m-default.akamaized.net
  - DOMAIN-SUFFIX,wnacg.com
+ - DOMAIN-SUFFIX,linovelib.com
+ - DOMAIN-SUFFIX,cocomanhua.com
+ - DOMAIN-SUFFIX,picacomic.com

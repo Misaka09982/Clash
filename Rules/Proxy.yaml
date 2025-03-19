@@ -2,17 +2,12 @@ payload:
  - DOMAIN-SUFFIX,bqg337.com
  - DOMAIN,mikanani.me
  - DOMAIN,update.glados-config.com
- - DOMAIN-SUFFIX,dmhy.org
- - DOMAIN-SUFFIX,picacomic.com
+ - DOMAIN-SUFFIX,dmhy.org 
  - DOMAIN-SUFFIX,pcrdfans.com
- - DOMAIN-SUFFIX,qoo-app.com
- - DOMAIN-SUFFIX,cocomanhua.com
- - DOMAIN-SUFFIX,maofiy.com
- - DOMAIN-SUFFIX,linovelib.com
+ - DOMAIN-SUFFIX,qoo-app.com 
+ - DOMAIN-SUFFIX,maofiy.com 
  - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,ero-labs.com
  - DOMAIN-SUFFIX,hmoeh.com
- - DOMAIN-SUFFIX,wnacg.com
  - DOMAIN-SUFFIX,mikanani.me
  - DOMAIN-SUFFIX,i-i.me
- - DOMAIN,services.googleapis.cn

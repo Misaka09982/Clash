@@ -13,10 +13,22 @@ payload:
  - DOMAIN,jsjiexi.com
  - DOMAIN,ffzyplayer.com
  - DOMAIN,v16m-default.akamaized.net
+ #绅士漫画
  - DOMAIN-SUFFIX,wnacg.com
+ #哔哩轻小说
  - DOMAIN-SUFFIX,linovelib.com
- - DOMAIN-SUFFIX,cocomanhua.com
+ #哔咔漫画
  - DOMAIN-SUFFIX,picacomic.com
+ #萌幻之乡
+ - DOMAIN-SUFFIX,mhh1.com
+ - DOMAIN-SUFFIX,moe-acg.com
+ #禁漫天堂
  - DOMAIN-KEYWORD,jmapiproxy
+ - DOMAIN-SUFFIX,cdnmhwscc.vip
+ - DOMAIN-SUFFIX,cdnblackmyth.club
+ - DOMAIN-SUFFIX,cdnmhws.cc
+ - DOMAIN-SUFFIX,cdnuc.cc
+ #
  - DOMAIN-KEYWORD,hitomi
+ #
  - DOMAIN-KEYWORD,nhentai

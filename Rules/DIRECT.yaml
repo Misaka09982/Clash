@@ -28,6 +28,7 @@ payload:
    - DOMAIN-SUFFIX,openwrt.ai
    - DOMAIN,dl.openwrt.ai
    - DOMAIN-KEYWORD,ghproxy
+   - DOMAIN-SUFFIX,ghproxy.net
    - DOMAIN-SUFFIX,cdnlz22.com
    - DOMAIN-SUFFIX,ffzy-online5.com
    - DOMAIN-SUFFIX,ffzy-play2.com

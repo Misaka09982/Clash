@@ -46,6 +46,10 @@ payload:
    - DOMAIN-SUFFIX,quickapi.net
    - DOMAIN,services.googleapis.cn
    - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+   - DOMAIN-SUFFIX,steamdb.info
+   #萌幻之乡
+   - DOMAIN-SUFFIX,mhh1.com
+   - DOMAIN-SUFFIX,moe-acg.com
    ##docker加速域名
    - DOMAIN,docker.1panel.live
    - DOMAIN,docker.sunzishaokao.com

@@ -19,9 +19,6 @@ payload:
  - DOMAIN-SUFFIX,linovelib.com
  #哔咔漫画
  - DOMAIN-SUFFIX,picacomic.com
- #萌幻之乡
- - DOMAIN-SUFFIX,mhh1.com
- - DOMAIN-SUFFIX,moe-acg.com
  #禁漫天堂
  - DOMAIN-KEYWORD,jmapiproxy
  - DOMAIN-SUFFIX,cdnmhwscc.vip

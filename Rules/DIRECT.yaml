@@ -9,6 +9,8 @@ payload:
    - DOMAIN-SUFFIX,jietiandi.net
    - DOMAIN-SUFFIX,vcb-s.com
    - DOMAIN-SUFFIX,game8.jp
+   - DOMAIN-SUFFIX,netbird.io
+   - DOMAIN-SUFFIX,tailscale.com
    - DOMAIN-KEYWORD,misakatomoyo
    - DOMAIN-KEYWORD,tailscale
    - DOMAIN-KEYWORD,netbird

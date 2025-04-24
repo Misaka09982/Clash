@@ -1,6 +1,8 @@
 payload:
-   - DOMAIN,misakatomoyo.dscloud.me
-   - DOMAIN,wcbl1314.quickconnect.to
+   - DOMAIN-SUFFIX,dscloud.me
+   - DOMAIN-SUFFIX,familyds.com
+   - DOMAIN-SUFFIX,quickconnect.to
+   - DOMAIN-SUFFIX,quickconnect.cn
    - DOMAIN-SUFFIX,gmya.net
    - DOMAIN-SUFFIX,sse.cisco.com
    - DOMAIN-SUFFIX,dns.yandex.net
@@ -49,6 +51,8 @@ payload:
    - DOMAIN,services.googleapis.cn
    - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
    - DOMAIN-SUFFIX,steamdb.info
+   - DOMAIN-SUFFIX,qqaoop.com
+   - DOMAIN-SUFFIX,qooapp.io
    #萌幻之乡
    - DOMAIN-SUFFIX,mhh1.com
    - DOMAIN-SUFFIX,moe-acg.com

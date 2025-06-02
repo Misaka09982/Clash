@@ -3,3 +3,5 @@ payload:
  - DOMAIN-SUFFIX,bnappweb.biz
  - DOMAIN-SUFFIX,walletconnect.org
  - DOMAIN-SUFFIX,cloudfront.net
+ - DOMAIN-SUFFIX,okex.org
+ - DOMAIN-SUFFIX,msu.io

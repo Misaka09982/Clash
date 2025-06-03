@@ -5,3 +5,4 @@ payload:
  - DOMAIN-SUFFIX,cloudfront.net
  - DOMAIN-SUFFIX,okex.org
  - DOMAIN-SUFFIX,msu.io
+ - DOMAIN,wallet.ouxyi.cash

@@ -25,9 +25,7 @@ payload:
    - DOMAIN-SUFFIX,hcaptcha.com
    - DOMAIN-SUFFIX,com.cn
    - DOMAIN,api-access.pangolin-sdk-toutiao.com
-   - DOMAIN-SUFFIX,cfbot.cf
-   - DOMAIN-SUFFIX,feiyufeidongman.com
-   - DOMAIN,open-sdk.900ga.me   
+   - DOMAIN-SUFFIX,cfbot.cf   
    - DOMAIN-SUFFIX,steamtools.net
    - DOMAIN-SUFFIX,openwrt.ai
    - DOMAIN,dl.openwrt.ai
@@ -51,8 +49,6 @@ payload:
    - DOMAIN,services.googleapis.cn
    - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
    - DOMAIN-SUFFIX,steamdb.info
-   - DOMAIN-SUFFIX,qqaoop.com
-   - DOMAIN-SUFFIX,qooapp.io
    #萌幻之乡
    - DOMAIN-SUFFIX,mhh1.com
    - DOMAIN-SUFFIX,moe-acg.com
@@ -70,8 +66,6 @@ payload:
    - DOMAIN,docker.fxxk.dedyn.io
    - DOMAIN,docker-mirror.aigc2d.com
    ##
-   - IP-CIDR,43.135.53.78/32
-   - IP-CIDR,43.159.0.212/32
    - IP-CIDR,1.0.0.1/32
    - IP-CIDR,1.1.1.2/32
    - IP-CIDR,1.0.0.2/32

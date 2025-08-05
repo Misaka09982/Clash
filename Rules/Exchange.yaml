@@ -4,8 +4,6 @@ payload:
  - DOMAIN-SUFFIX,walletconnect.org
  - DOMAIN-SUFFIX,cloudfront.net
  - DOMAIN-SUFFIX,okex.org
- - DOMAIN-SUFFIX,msu.io
- - DOMAIN,wallet.ouxyi.cash
  - DOMAIN-SUFFIX,bn-alpha.site
  - DOMAIN-SUFFIX,vercel.app
  - DOMAIN-SUFFIX,binance.info

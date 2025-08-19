@@ -1,5 +1,7 @@
 payload:
    - DOMAIN-SUFFIX,dscloud.me
+   - DOMAIN-SUFFIX,dsoo.de
+   - DOMAIN-SUFFIX,cn-shenzhen.fcapp.run
    - DOMAIN-SUFFIX,familyds.com
    - DOMAIN-SUFFIX,quickconnect.to
    - DOMAIN-SUFFIX,quickconnect.cn

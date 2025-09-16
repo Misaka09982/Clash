@@ -28,9 +28,3 @@ payload:
  - IP-CIDR,8.209.244.66/32
  - IP-CIDR,47.91.31.217/32
  - IP-CIDR,47.74.1.69/32
- - DOMAIN-SUFFIX,feiyufeidongman.com
- - DOMAIN,open-sdk.900ga.me
- - DOMAIN-SUFFIX,qqaoop.com
- - DOMAIN-SUFFIX,qooapp.io
- - IP-CIDR,43.135.53.78/32
- - IP-CIDR,43.159.0.212/32

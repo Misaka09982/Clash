@@ -13,6 +13,8 @@ payload:
  - DOMAIN,jsjiexi.com
  - DOMAIN,ffzyplayer.com
  - DOMAIN,v16m-default.akamaized.net
+ #emby
+ - DOMAIN,emby.onesy.cc
  #绅士漫画
  - DOMAIN-SUFFIX,wnacg.com
  #哔哩轻小说

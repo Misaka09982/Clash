@@ -72,6 +72,7 @@ payload:
    - DOMAIN-SUFFIX,qewbn.com
    - DOMAIN-SUFFIX,daayee.com
    - DOMAIN-SUFFIX,anmiao.moe
+   - DOMAIN-SUFFIX,freecloud.ltd
    #自域名
    - DOMAIN-SUFFIX,cfkfc.dpdns.org
    - DOMAIN-SUFFIX,dnfkfc.dpdns.org

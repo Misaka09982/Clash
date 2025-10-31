@@ -19,5 +19,13 @@ payload:
  - DOMAIN-SUFFIX,appwrite.run
  - DOMAIN-SUFFIX,z.ai
  - DOMAIN-SUFFIX,eternalzero.cloud
+ - DOMAIN-SUFFIX,greathost.es
+ - DOMAIN-SUFFIX,modal.com
+ - DOMAIN-SUFFIX,modal-cdn.com
+ - DOMAIN-SUFFIX,zeabur.com
+ - DOMAIN-SUFFIX,lemehost.com
+ - DOMAIN-SUFFIX,mcserverhost.com
+ - DOMAIN-SUFFIX,mc-servers.tech
+ - DOMAIN-SUFFIX,wispbyte.com
  - IP-CIDR,43.135.53.78/32
  - IP-CIDR,43.159.0.212/32

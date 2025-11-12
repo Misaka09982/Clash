@@ -27,5 +27,6 @@ payload:
  - DOMAIN-SUFFIX,mcserverhost.com
  - DOMAIN-SUFFIX,mc-servers.tech
  - DOMAIN-SUFFIX,wispbyte.com
+ - DOMAIN-SUFFIX,steamtools.net
  - IP-CIDR,43.135.53.78/32
  - IP-CIDR,43.159.0.212/32

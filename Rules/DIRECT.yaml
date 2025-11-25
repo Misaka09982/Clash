@@ -82,6 +82,7 @@ payload:
    - DOMAIN-SUFFIX,misaka9980.dpdns.org
    - DOMAIN-SUFFIX,avbot.qzz.io
    - DOMAIN-SUFFIX,avyun.qzz.io
+   - DOMAIN-SUFFIX,netlib.re
    #萌幻之乡
    - DOMAIN-SUFFIX,mhh1.com
    - DOMAIN-SUFFIX,moe-acg.com

@@ -99,6 +99,7 @@ payload:
    - DOMAIN,dislabaiot.xyz
    - DOMAIN,docker.fxxk.dedyn.io
    - DOMAIN,docker-mirror.aigc2d.com
+   - DOMAIN,dash.cloudflare.com
    ##
    - IP-CIDR,1.0.0.1/32
    - IP-CIDR,1.1.1.2/32

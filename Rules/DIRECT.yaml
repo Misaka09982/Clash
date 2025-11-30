@@ -75,6 +75,8 @@ payload:
    - DOMAIN-SUFFIX,aabook.cyou
    - DOMAIN,challenges.cloudflare.com
    - DOMAIN-SUFFIX,steamtools.net
+   - DOMAIN-SUFFIX,freecloud.ltd
+   - DOMAIN,freecloud.ltd
    #自域名
    - DOMAIN-SUFFIX,cfkfc.dpdns.org
    - DOMAIN-SUFFIX,dnfkfc.dpdns.org

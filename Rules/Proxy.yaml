@@ -25,3 +25,5 @@ payload:
  - DOMAIN-SUFFIX,mcserverhost.com
  - DOMAIN-SUFFIX,mc-servers.tech
  - DOMAIN-SUFFIX,wispbyte.com
+ - DOMAIN-SUFFIX,railway.com
+ - DOMAIN-SUFFIX,railway.app

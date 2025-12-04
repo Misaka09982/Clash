@@ -102,7 +102,4 @@ payload:
    - DOMAIN,docker.fxxk.dedyn.io
    - DOMAIN,docker-mirror.aigc2d.com
    - DOMAIN,dash.cloudflare.com
-   - DOMAIN-SUFFIX,feiyufeidongman.com
-   - DOMAIN,open-sdk.900ga.me
-   - IP-CIDR,43.135.53.78/32
-   - IP-CIDR,43.159.0.212/32
+

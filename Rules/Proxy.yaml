@@ -29,7 +29,3 @@ payload:
  - DOMAIN-SUFFIX,railway.app
  - DOMAIN-SUFFIX,anyrouter.top
  - DOMAIN-SUFFIX,wpgzs.top
- - DOMAIN-SUFFIX,feiyufeidongman.com
- - DOMAIN,open-sdk.900ga.me
- - IP-CIDR,43.135.53.78/32
- - IP-CIDR,43.159.0.212/32

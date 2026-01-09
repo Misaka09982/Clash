@@ -132,3 +132,8 @@ payload:
    - DOMAIN-SUFFIX,voct.top
    - DOMAIN-SUFFIX,aiai.li
    - DOMAIN-SUFFIX,daiju.live
+   #少女与城主
+   - DOMAIN-SUFFIX,feiyufeidongman.com
+   - DOMAIN,open-sdk.900ga.me
+   - IP-CIDR,43.135.53.78/32
+   - IP-CIDR,43.159.0.212/32

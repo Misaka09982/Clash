@@ -86,6 +86,12 @@ payload:
    - DOMAIN-SUFFIX,avbot.qzz.io
    - DOMAIN-SUFFIX,avyun.qzz.io
    - DOMAIN-SUFFIX,netlib.re
+   - DOMAIN-SUFFIX,indevs.in
+   - DOMAIN-SUFFIX,us.ci
+   - DOMAIN-SUFFIX,ggff.net
+   - DOMAIN-SUFFIX,cc.cd
+   - DOMAIN-SUFFIX,ccwu.cc
+   - DOMAIN-SUFFIX,de5.net
    #萌幻之乡
    - DOMAIN-SUFFIX,mhh1.com
    - DOMAIN-SUFFIX,moe-acg.com

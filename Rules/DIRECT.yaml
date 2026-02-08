@@ -109,8 +109,6 @@ payload:
    - DOMAIN,docker.fxxk.dedyn.io
    - DOMAIN,docker-mirror.aigc2d.com
    #cloudflare
-   - DOMAIN,dash.cloudflare.com
-   - DOMAIN-SUFFIX,cloudflare.com
    - DOMAIN-SUFFIX,cloudflared.com
    - DOMAIN-SUFFIX,argotunnel.com
    - DOMAIN,region1.v2.argotunnel.com

@@ -78,6 +78,7 @@ payload:
    - DOMAIN-SUFFIX,freecloud.ltd
    - DOMAIN,freecloud.ltd
    - DOMAIN-SUFFIX,hf.space
+   - DOMAIN-SUFFIX,linux.do
    #自域名
    - DOMAIN-SUFFIX,cfkfc.dpdns.org
    - DOMAIN-SUFFIX,dnfkfc.dpdns.org

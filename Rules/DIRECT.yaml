@@ -79,6 +79,7 @@ payload:
    - DOMAIN,freecloud.ltd
    - DOMAIN,rewards.bing.com
    - DOMAIN,a-ocnfniawgw.cn-shanghai.fcapp.run
+   - DOMAIN-SUFFIX,muyuan.do
    #自域名
    - DOMAIN-SUFFIX,cfkfc.dpdns.org
    - DOMAIN-SUFFIX,dnfkfc.dpdns.org

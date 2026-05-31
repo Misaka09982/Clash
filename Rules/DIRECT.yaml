@@ -154,6 +154,7 @@ payload:
    - DOMAIN-SUFFIX,aidrouter.qzz.io
    - DOMAIN-SUFFIX,dx001.ggff.net
    - DOMAIN-SUFFIX,sharedchat.cc
+   - DOMAIN-SUFFIX,vsllm.com
    #少女与城主
    - DOMAIN-SUFFIX,feiyufeidongman.com
    - DOMAIN,open-sdk.900ga.me

@@ -82,6 +82,7 @@ payload:
    - DOMAIN-SUFFIX,muyuan.do
    - DOMAIN,ai.ddddpool.uk
    - DOMAIN-SUFFIX,zzzcoding.org
+   - DOMAIN,ps.air-outer.com
    #自域名
    - DOMAIN-SUFFIX,cfkfc.dpdns.org
    - DOMAIN-SUFFIX,dnfkfc.dpdns.org

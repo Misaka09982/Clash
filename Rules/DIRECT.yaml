@@ -164,3 +164,40 @@ payload:
    - IP-CIDR,43.159.0.212/32
    #棕色尘埃2
    - DOMAIN-SUFFIX,pmang.cloud
+   #github加速
+
+   - DOMAIN-SUFFIX,github.com
+   - DOMAIN-SUFFIX,githubusercontent.com
+   - DOMAIN-SUFFIX,h233.eu.org
+   - DOMAIN-SUFFIX,ddlc.top
+   - DOMAIN-SUFFIX,gh-proxy.org
+   - DOMAIN-SUFFIX,ghproxy.it
+   - DOMAIN-SUFFIX,github.boki.moe
+   - DOMAIN-SUFFIX,jasonzeng.dev
+   - DOMAIN-SUFFIX,monlor.com
+   - DOMAIN-SUFFIX,geekery.cn
+   - DOMAIN-SUFFIX,ednovas.xyz
+   - DOMAIN-SUFFIX,geekertao.top
+   - DOMAIN-SUFFIX,keleyaa.com
+   - DOMAIN-SUFFIX,chjina.com
+   - DOMAIN-SUFFIX,hwinzniej.top
+   - DOMAIN-SUFFIX,crashmc.com
+   - DOMAIN-SUFFIX,yylx.win
+   - DOMAIN-SUFFIX,mrhjx.cn
+   - DOMAIN-SUFFIX,cxkpro.top
+   - DOMAIN-SUFFIX,xxooo.cf
+   - DOMAIN-SUFFIX,idayer.com
+   - DOMAIN-SUFFIX,npee.cn
+   - DOMAIN-SUFFIX,ihtw.moe
+   - DOMAIN-SUFFIX,xi-xu.me
+   - DOMAIN-SUFFIX,zwy.one
+   - DOMAIN-SUFFIX,monkeyray.net
+   - DOMAIN-SUFFIX,ghproxy.net
+   - DOMAIN-SUFFIX,ghfast.top
+   - DOMAIN-SUFFIX,wget.la
+   - DOMAIN-SUFFIX,gitclone.com
+   - DOMAIN-SUFFIX,githubfast.com
+   - DOMAIN-SUFFIX,catmak.name
+   - DOMAIN-SUFFIX,blfrp.cn
+   - DOMAIN-SUFFIX,ghpxy.hwinzniej.top
+   - DOMAIN-SUFFIX,jsdelivr.net

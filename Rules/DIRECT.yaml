@@ -81,6 +81,7 @@ payload:
    - DOMAIN,ai.ddddpool.uk
    - DOMAIN-SUFFIX,zzzcoding.org
    - DOMAIN,ps.air-outer.com
+   - DOMAIN,rewards.bing.com
    #自域名
    - DOMAIN-SUFFIX,cfkfc.dpdns.org
    - DOMAIN-SUFFIX,dnfkfc.dpdns.org

@@ -165,9 +165,6 @@ payload:
    #棕色尘埃2
    - DOMAIN-SUFFIX,pmang.cloud
    #github加速
-
-   - DOMAIN-SUFFIX,github.com
-   - DOMAIN-SUFFIX,githubusercontent.com
    - DOMAIN-SUFFIX,h233.eu.org
    - DOMAIN-SUFFIX,ddlc.top
    - DOMAIN-SUFFIX,gh-proxy.org

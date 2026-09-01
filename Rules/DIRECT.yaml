@@ -157,11 +157,6 @@ payload:
    - DOMAIN-SUFFIX,dx001.ggff.net
    - DOMAIN-SUFFIX,sharedchat.cc
    - DOMAIN-SUFFIX,vsllm.com
-   #少女与城主
-   - DOMAIN-SUFFIX,feiyufeidongman.com
-   - DOMAIN,open-sdk.900ga.me
-   - IP-CIDR,43.135.53.78/32
-   - IP-CIDR,43.159.0.212/32
    #棕色尘埃2
    - DOMAIN-SUFFIX,pmang.cloud
    #github加速

@@ -33,3 +33,4 @@ payload:
  - DOMAIN-SUFFIX,tabbitbrowser.com
  - DOMAIN-SUFFIX,gh-proxy.com
  - DOMAIN-SUFFIX,rawchat.cn
+ - DOMAIN,challenges.cloudflare.com

@@ -36,3 +36,5 @@ payload:
  - DOMAIN-KEYWORD,hitomi
  #
  - DOMAIN-KEYWORD,nhentai
+ #
+ - DOMAIN-SUFFIX,aabook.cyou

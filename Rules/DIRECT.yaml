@@ -155,6 +155,7 @@ payload:
    - DOMAIN-SUFFIX,dx001.ggff.net
    - DOMAIN-SUFFIX,sharedchat.cc
    - DOMAIN-SUFFIX,vsllm.com
+   - DOMAIN-SUFFIX,aiapi.bot
    #棕色尘埃2
    - DOMAIN-SUFFIX,pmang.cloud
    #github加速

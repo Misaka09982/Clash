@@ -81,6 +81,7 @@ payload:
    - DOMAIN,ps.air-outer.com
    - DOMAIN-SUFFIX,whyyin.fun
    - DOMAIN-SUFFIX,luckys.ekt.me
+   - DOMAIN-SUFFIX,dsh.lightvela.site
    #自域名
    - DOMAIN-SUFFIX,cfkfc.dpdns.org
    - DOMAIN-SUFFIX,dnfkfc.dpdns.org

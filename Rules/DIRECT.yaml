@@ -82,6 +82,7 @@ payload:
    - DOMAIN-SUFFIX,whyyin.fun
    - DOMAIN-SUFFIX,luckys.ekt.me
    - DOMAIN-SUFFIX,dsh.lightvela.site
+   - DOMAIN-SUFFIX,dsh.lightvela.tech
    #自域名
    - DOMAIN-SUFFIX,cfkfc.dpdns.org
    - DOMAIN-SUFFIX,dnfkfc.dpdns.org
